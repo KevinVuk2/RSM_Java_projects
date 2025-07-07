@@ -16,11 +16,16 @@ Loss: -$1
 - Strategies:
 
 Player Strategy: A fixed, repeating sequence of moves is used:
+
 Round 1: Scissors
+
 Round 2: Rock
+
 Round 3: Paper
+
 Round 4: Scissors (and so on...)
-- Computer Strategy: The computer chooses its move (Rock, Paper, or Scissors) randomly in each round.
+
+Computer Strategy: The computer chooses its move (Rock, Paper, or Scissors) randomly in each round.
 
 2. Features
 - Simulates a loop of 1000 rounds.
