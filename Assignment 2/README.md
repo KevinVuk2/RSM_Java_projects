@@ -14,7 +14,7 @@ Tie: +$2
 Loss: -$1
 
 - Strategies:
-- 
+
 Player Strategy: A fixed, repeating sequence of moves is used:
 Round 1: Scissors
 Round 2: Rock
