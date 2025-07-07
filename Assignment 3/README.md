@@ -1,11 +1,11 @@
 # Project Title: Orange Inc. - Business Sales and Revenue Forecaster
 A Java application that performs a business analysis task by calculating current revenue and forecasting future sales and revenue for a portfolio of products. This project was completed for the BMME008 - Programming for Managers course.
 
-#Project Goal
+# Project Goal
 
 This program simulates a business analyst's task for a fictional company, "Orange Inc." Using a given dataset of five products, the program calculates two key metrics:
-Total Revenue for 2024: Based on the per-unit price and the number of units sold.
-Projected Revenue for 2035: By first forecasting the sales volume for each product using its unique annual growth rate, and then calculating the resulting revenue.
+1. Total Revenue for 2024: Based on the per-unit price and the number of units sold.
+2. Projected Revenue for 2035: By first forecasting the sales volume for each product using its unique annual growth rate, and then calculating the resulting revenue.
 
 # Core Logic & Implementation
 
