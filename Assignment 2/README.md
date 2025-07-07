@@ -7,8 +7,11 @@ Game Rules & Strategy
 1. The simulation follows these rules:
 - Reward System:
 Win: +$5
+
 Tie: +$2
+
 Loss: -$1
+
 - Strategies:
 Player Strategy: A fixed, repeating sequence of moves is used:
 Round 1: Scissors
