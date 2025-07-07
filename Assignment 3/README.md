@@ -25,9 +25,5 @@ The Math.pow() function is used for the exponentiation.
 
 The analysis is based on the following product data:
 
-Product	Per-unit price	Sales in 2024	Sales growth rate (annual)
-oComputer	1825	320	2.25%
-oTablet	670	140	3.5%
-oCall	880	530	2.5%
-oStream	1910	45	4.3%
-oClock	485	160	0.8%
+![image](https://github.com/user-attachments/assets/f731d0e1-ed34-429d-b2e7-6e57c550bba0)
+
