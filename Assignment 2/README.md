@@ -6,6 +6,7 @@ This program automates a game of Rock-Paper-Scissors to test a specific strategy
 Game Rules & Strategy
 1. The simulation follows these rules:
 - Reward System:
+
 Win: +$5
 
 Tie: +$2
